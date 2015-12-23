@@ -13,7 +13,7 @@ public class RowBean implements Caller{
     private String globalId = null;
     private JSONObject data;
     private String tag_id = "id";
-    private String SERVER_ADDRESS = "https://hack.telemabk.pl/api/user/fb”;
+    private String SERVER_ADDRESS = "https://hack.telemabk.pl/api/user/fb";
     private String tag_success = "success";
 
     public RowBean(){
